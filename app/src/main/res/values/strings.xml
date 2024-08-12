@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kids Drawing App</string>
+    <string name="medium_button">medium Button</string>
+    <string name="small_button">small button</string>
+    <string name="large_button">large button</string>
+    <string name="brush_size">brush size</string>
+    <string name="save_button">save button</string>
+    <string name="redo_button" />
+    <string name="undo_button" />
+    <string name="gallery_button" />
+</resources>
